@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/rezasadid753/numerical-analysis-tools"><video width="80" height="80" autoplay="" loop="" muted="" __idm_id__="3686401"><source src="https://rezasadid.com/files/data/rs-logo-long.mp4" type="video/mp4">Reza Sadid</video></a>
+    <a href="https://github.com/rezasadid753/numerical-analysis-tools"><img src="https://rezasadid.com/files/data/rezasadid-white-rounded.svg" alt="Reza Sadid" width="80" height="80"></a>
     <h3 align="center">Numerical Analysis Tools</h3>
     <p align="center">
         Explore practical implementations of numerical analysis methods in PHP
