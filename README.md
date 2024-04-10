@@ -1,7 +1,5 @@
 # Numerical Analysis Tools
 
-![Logo](https://rezasadid.com/files/data/rezasadid-white-rounded.svg)
-
 Explore practical implementations of numerical analysis methods in PHP
 
 [View Demo](https://rsdn.ir/g-nas) · [Report an Issue or Request a Feature](https://github.com/rezasadid753/numerical-analysis-tools/issues) · [Collaborate](https://github.com/rezasadid753/numerical-analysis-tools/pulls)
