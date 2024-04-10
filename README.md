@@ -1,17 +1,10 @@
-<div align="center">
-    <a href="https://github.com/rezasadid753/numerical-analysis-tools"><img src="https://rezasadid.com/files/data/rezasadid-white-rounded.svg" alt="Reza Sadid" width="80" height="80"></a>
-    <h3 align="center">Numerical Analysis Tools</h3>
-    <p align="center">
-        Explore practical implementations of numerical analysis methods in PHP
-    </p>
-    <a href="https://rsdn.ir/g-nas">View Demo</a>
-    ·
-    <a href="https://github.com/rezasadid753/numerical-analysis-tools/issues">Report an Issue or Request a Feature</a>
-    ·
-    <a href="https://github.com/rezasadid753/numerical-analysis-tools/pulls">Collaborate</a>
-</div>
+# Numerical Analysis Tools
 
-<br>
+![Logo](https://rezasadid.com/files/data/rezasadid-white-rounded.svg)
+
+Explore practical implementations of numerical analysis methods in PHP
+
+[View Demo](https://rsdn.ir/g-nas) · [Report an Issue or Request a Feature](https://github.com/rezasadid753/numerical-analysis-tools/issues) · [Collaborate](https://github.com/rezasadid753/numerical-analysis-tools/pulls)
 
 ## About The Project
 
@@ -49,12 +42,10 @@ Contributions are pivotal to the growth of our project. Your input fuels innovat
 4. Push to the Branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-
 ## Contact
 
-For any inquiries or support, feel free to contact via email at contact@rezasadid.com or rezasadid753@gmail.com.
+For any inquiries or support, feel free to contact via email at <contact@rezasadid.com> or <rezasadid753@gmail.com>.
