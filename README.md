@@ -2,8 +2,6 @@
 
 Explore practical implementations of numerical analysis methods in PHP
 
-[View Demo](https://rsdn.ir/g-nas) · [Report an Issue or Request a Feature](https://github.com/rezasadid753/numerical-analysis-tools/issues) · [Collaborate](https://github.com/rezasadid753/numerical-analysis-tools/pulls)
-
 ## About The Project
 
 This repository contains implementations of various numerical analysis methods in PHP. Explore a collection of algorithms for solving equations, finding roots, and integrating functions. Whether you're a student or a professional, these tools provide insights into numerical analysis techniques.
