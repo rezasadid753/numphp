@@ -1,47 +1,85 @@
-# Numerical Analysis Tools
+# 🧮 NumPHP – Numerical Analysis Tools in PHP
 
-Explore practical implementations of numerical analysis methods in PHP
+A fun, practical toolkit for exploring **numerical methods**—built with pure PHP for students, learners, and tinkerers.
 
-## About The Project
+## 🚀 About
 
-This repository contains implementations of various numerical analysis methods in PHP. Explore a collection of algorithms for solving equations, finding roots, and integrating functions. Whether you're a student or a professional, these tools provide insights into numerical analysis techniques.
+NumPHP was born during my third semester in university, when I was diving deep into numerical analysis. While most of my peers stuck with Python or MATLAB, I took a different route — building the entire toolkit in **PHP** to keep things web-native and accessible.
 
-![Cover Image](https://rezasadid.com/projects/numericalanalysis/cover.jpg)
+From root-finding to integration, this project brings theory to life with clean iterations and visual outputs — perfect for students who want to **see** what’s happening behind the formulas.
 
-### Features
+---
 
-* Implementation of popular numerical analysis methods
-* Detailed documentation and explanations
-* Code examples for practical usage
-* Easy-to-understand PHP implementations
+## 🔧 Features
 
-### Built With
+- 📉 Step-by-step **iteration output** for better understanding  
+- 🔄 Classic methods like Bisection, Newton-Raphson, Secant, Jacobi  
+- 📈 Integration tools like Trapezoid & Simpson’s Rule  
+- 🧩 Modular structure — easy to extend and play with  
+- 💡 Clean and interactive web-based interface (PHP + JS + CSS)
 
-Flasher is built using a combination of frontend and backend technologies:
+---
 
-* Frontend: HTML, CSS
-* Backend: PHP
+## 🛠️ Built With
 
-## Logs
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP (no frameworks)
 
-### Version 1.0 (Initial Release)
+No Python or external engines — just good ol’ PHP and math!
 
-* Uploaded the first version of the repository
+---
 
-## Contributing
+## 📁 Project Structure
 
-Contributions are pivotal to the growth of our project. Your input fuels innovation and enhances the user experience for everyone. Whether it's a bug fix, feature suggestion, or enhancement, your efforts are highly valued. Feel free to fork the repository, create a new branch, and share your ideas. If you have any suggestions to improve the project, don't hesitate to open an issue and tag it as "enhancement". Your contributions will be warmly welcomed, and together, we can make this project even better. Thank you for your support!
+```bash
+NumPHP/
+├── index.php                        # Method selector and main UI
+├── method-bisection.php
+├── method-false-position.php
+├── method-fixed-point-iteration.php
+├── method-jacobi.php
+├── method-newton-raphson.php
+├── method-secant.php
+├── method-simpson.php
+├── method-trapezoid.php
+├── numerical-analysis.css          # Styling
+└── numerical-analysis.js           # Interactivity
+```
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/YourFeature`)
-3. Commit your Changes (`git commit -m 'Add some YourFeature'`)
-4. Push to the Branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
+---
 
-## License
+## 🧪 Methods Included
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+- Bisection Method  
+- False Position Method  
+- Newton-Raphson Method  
+- Secant Method  
+- Fixed-Point Iteration  
+- Jacobi Iteration  
+- Trapezoidal Rule  
+- Simpson’s Rule
 
-## Contact
+Each method shows iterations, convergence steps, and intermediate results.
 
-For any inquiries or support, feel free to contact via email at <contact@rezasadid.com> or <rezasadid753@gmail.com>.
+---
+
+## 🎯 Use Case
+
+Ideal for:
+- Students trying to **understand how numerical methods evolve** step by step
+- Professors or TAs looking for a **demo-ready** educational tool
+- Anyone curious about implementing these algorithms in PHP
+
+---
+
+## 📜 License
+
+MIT — open and free for learning, tweaking, and sharing.
+
+---
+
+## 💬 Final Word
+
+This project was fun to build and even more fun to use. If you’re diving into numerical analysis and want a hands-on PHP playground — give **NumPHP** a go!
+
+Feel free to star ⭐ the repo or share it with a fellow math nerd!
